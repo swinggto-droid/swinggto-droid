@@ -3,7 +3,7 @@
 공간은 취향과 삶의 방식이 가장 가까이 드러나는 세계라고 생각해요.
 나이, 배경, 소득 수준에 관계없이 누구나 좋은 공간을 발견하고 직접 만들 수 있도록 [**콜라보스페이스**](https://collabospace.com)를 만들고 있어요.
 
-도면 한 장을 3D 공간으로 바꾸고, 실제 판매되는 가구와 제품을 배치하며 상상을 현실에 가까이 옮길 수 있어요.
+지금은 “검색해서 제품을 고르는 방식”에서 “AI가 내 공간을 이해하고 함께 선택해주는 방식”으로 홈퍼니싱의 구매 경험을 바꾸는 것을 돕고 있어요.
 
 > Building tools that help anyone discover their taste and turn it into a space they can live in.
 
