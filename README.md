@@ -13,6 +13,10 @@
 - [**ShotToAI**](https://github.com/swinggto-droid/ShotToAI) — 모니터를 골라 AI 코딩 도구에 바로 붙여넣는 윈도우 유틸리티 · MIT
 - [**interior-trend**](https://github.com/swinggto-droid/interior-trend) — 유튜브·인스타그램·틱톡·X·스레드에서 인테리어 키워드를 모으는 수집기
 
+**쓴 글**
+
+- [Supabase 인증에서 조용히 실패하는 세 가지](https://github.com/swinggto-droid/CollaboSpace/blob/main/docs/notes/supabase-auth-pitfalls.md)
+
 **주로 쓰는 것**
 
 `Next.js` `React` `TypeScript` `Supabase` `Flutter` `three.js`
