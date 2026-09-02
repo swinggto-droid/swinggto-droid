@@ -5,9 +5,15 @@
 
 도면 한 장을 3D 공간으로 바꾸고, 실제 판매되는 가구와 제품을 배치하며 상상을 현실에 가까이 옮길 수 있어요.
 
+> Building tools that help anyone discover their taste and turn it into a space they can live in.
+
 [웹](https://collabospace.com) · [App Store](https://apps.apple.com/app/id6775731858) · [Google Play](https://play.google.com/store/apps/details?id=com.collabospace.app)
 
 ---
+
+**지금 만들고 있는 것**
+
+도면에서 시작해 누구나 자신의 공간을 설계하고, 발견한 취향을 실제 제품으로 이어갈 수 있는 경험을 만들고 있어요.
 
 **공개해 둔 것**
 
@@ -22,6 +28,10 @@
 **주로 쓰는 것**
 
 `Next.js` `React` `TypeScript` `Supabase` `Flutter` `three.js`
+
+**함께 이야기하고 싶다면**
+
+공간, 3D, 커머스, 크리에이터 생태계에 관한 제안은 [이메일](mailto:info@collabospace.com)로 편하게 연락해 주세요.
 
 ---
 
