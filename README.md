@@ -3,7 +3,7 @@
 
 [**콜라보스페이스**](https://collabospace.com)는 '나이, 배경, 소득 수준에 관계없이 누구나 좋은 공간을 발견하고, 스스로 만들 수 있도록' 이라는 미션을 가진 브랜드예요.
 
-현재는 “검색해서 제품을 고르는 방식”에서 “AI가 내 공간을 이해하고 함께 선택해주는 방식”으로 홈퍼니싱의 구매 경험을 바꾸는 것에 집중 하고 있어요.
+현재는 Phase1:방과 집 단계를 진행하며 “검색해서 제품을 고르는 방식”에서 “AI가 내 공간을 이해하고 함께 선택해주는 방식”으로 홈퍼니싱의 구매 경험을 바꾸는 것에 집중 하고 있어요.
 
 > Building tools that help anyone discover their taste and turn it into a space they can live in.
 
