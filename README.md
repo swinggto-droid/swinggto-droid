@@ -38,7 +38,7 @@
 
 **함께 이야기하고 싶다면**
 
-공간, 3D, 커머스, 크리에이터 생태계에 관한 제안은 [이메일](mailto:info@collabospace.com)로 편하게 연락해 주세요.
+공간, 3D, 커머스, 크리에이터 생태계에 관한 제안은 [이메일](mailto:swhong@collabospace.com)로 편하게 연락해 주세요.
 
 ---
 
