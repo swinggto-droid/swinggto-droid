@@ -2,26 +2,19 @@
 
 [**콜라보스페이스**](https://collabospace.com)는 '나이, 배경, 소득 수준에 관계없이 누구나 좋은 공간을 발견하고, 스스로 만들 수 있도록' 이라는 미션을 가진 브랜드예요.
 
-현재는 “검색해서 제품을 고르는 방식”에서 “AI가 내 공간을 이해하고 함께 선택해주는 방식”으로 홈퍼니싱의 구매 경험을 바꾸는 것에 집중하고 있어요.
-
 > Building tools that help anyone discover their taste and turn it into a space they can live in.
 
 [웹](https://collabospace.com) · [App Store](https://apps.apple.com/app/id6775731858) · [Google Play](https://play.google.com/store/apps/details?id=com.collabospace.app)
-
-<p align="center">
-  <a href="https://collabospace.com">
-    <img src="./assets/collabospace-canvas.png" width="49%" alt="콜라보스페이스 3D 캔버스 주간 화면">
-  </a>
-  <a href="https://collabospace.com">
-    <img src="./assets/collabospace-canvas-night.png" width="49%" alt="콜라보스페이스 3D 캔버스 야간 화면">
-  </a>
-</p>
 
 ---
 
 **지금 만들고 있는 것**
 
-도면에서 시작해 누구나 자신의 공간을 설계하고, 발견한 취향을 실제 제품으로 이어갈 수 있는 경험을 만들고 있어요.
+현재는 “검색해서 제품을 고르는 방식”에서 “AI가 내 공간을 이해하고 함께 선택해주는 방식”으로 홈퍼니싱의 구매 경험을 바꾸는 것에 집중하고 있어요.
+
+자신의 공간을 3D로 만들고, 발견한 취향을 실제 공간으로 이어갈 수 있는 경험을 설계해요.
+
+[![콜라보스페이스 3D 캔버스에서 실제 가구를 배치하고 제품 정보를 확인하는 화면](./assets/collabospace-canvas.png)](https://collabospace.com)
 
 **공개해 둔 것**
 
