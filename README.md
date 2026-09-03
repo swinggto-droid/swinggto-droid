@@ -2,7 +2,7 @@
 
 [**콜라보스페이스**](https://collabospace.com)는 '나이, 배경, 소득 수준에 관계없이 누구나 좋은 공간을 발견하고, 스스로 만들 수 있도록' 이라는 미션을 가진 브랜드예요.
 
-> Building tools that help anyone discover their taste and turn it into a space they can live in.
+> Building a future where anyone—regardless of age, background, or income—can discover good spaces and create one of their own.
 
 [웹](https://collabospace.com) · [App Store](https://apps.apple.com/app/id6775731858) · [Google Play](https://play.google.com/store/apps/details?id=com.collabospace.app)
 
