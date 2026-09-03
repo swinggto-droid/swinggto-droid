@@ -4,6 +4,12 @@
 
 > Building a future where anyone—regardless of age, background, or income—can discover good spaces and create one of their own.
 
+[![콜라보스페이스 오픈스페이스 둘러보기](./assets/collabospace-openspace.gif)](https://collabospace.com/openspace/)
+
+<p align="center">
+  <a href="https://collabospace.com/openspace/"><strong>오픈스페이스 직접 둘러보기 →</strong></a>
+</p>
+
 [웹](https://collabospace.com) · [App Store](https://apps.apple.com/app/id6775731858) · [Google Play](https://play.google.com/store/apps/details?id=com.collabospace.app)
 
 ---
