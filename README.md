@@ -8,7 +8,14 @@
 
 [웹](https://collabospace.com) · [App Store](https://apps.apple.com/app/id6775731858) · [Google Play](https://play.google.com/store/apps/details?id=com.collabospace.app)
 
-[![콜라보스페이스 3D 캔버스에서 실제 가구를 배치하고 제품 정보를 확인하는 화면](./assets/collabospace-canvas.png)](https://collabospace.com)
+<p align="center">
+  <a href="https://collabospace.com">
+    <img src="./assets/collabospace-canvas.png" width="49%" alt="콜라보스페이스 3D 캔버스 주간 화면">
+  </a>
+  <a href="https://collabospace.com">
+    <img src="./assets/collabospace-canvas-night.png" width="49%" alt="콜라보스페이스 3D 캔버스 야간 화면">
+  </a>
+</p>
 
 ---
 
