@@ -20,7 +20,7 @@
 
 자신의 공간을 3D로 만들고, 발견한 취향을 실제 공간으로 이어갈 수 있는 경험을 설계해요.
 
-[![콜라보스페이스 3D 캔버스에서 실제 가구를 배치하고 제품 정보를 확인하는 화면](./assets/collabospace-canvas.png)](https://collabospace.com)
+[![콜라보스페이스 3D 캔버스에서 실제 가구를 배치하고 제품 정보를 확인하는 화면](./assets/collabospace-canvas.gif)](https://collabospace.com)
 
 **공개해 둔 것**
 
