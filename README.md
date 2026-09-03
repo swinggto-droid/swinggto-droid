@@ -38,7 +38,7 @@
 
 **함께 이야기하고 싶다면**
 
-공간, 3D, 커머스, 크리에이터 생태계에 관한 이야기는 언제든 환영해요.  
+공간과 스타트업에 대해 관심이 많아요. 이야기는 언제든 환영해요.  
 [Threads에서 DM 보내기 →](https://www.threads.com/@swen.hong) · `swhong@collabospace.com`
 
 ---
