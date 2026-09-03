@@ -38,8 +38,8 @@
 
 **함께 이야기하고 싶다면**
 
-Space · 3D · Commerce · Creators  
-[swhong@collabospace.com](mailto:swhong@collabospace.com)
+공간, 3D, 커머스, 크리에이터 생태계에 관한 이야기는 언제든 환영해요.  
+[Threads에서 DM 보내기 →](https://www.threads.com/@swen.hong) · `swhong@collabospace.com`
 
 ---
 
