@@ -2,6 +2,8 @@
 
 [**콜라보스페이스**](https://collabospace.com)는 '나이, 배경, 소득 수준에 관계없이 누구나 좋은 공간을 발견하고, 스스로 만들 수 있도록' 이라는 미션을 가진 브랜드예요.
 
+[왜 콜라보스페이스를 만드는지 →](https://collabospace.com/introduce/)
+
 > Building a future where anyone—regardless of age, background, or income—can discover good spaces and create one of their own.
 
 [![콜라보스페이스 오픈스페이스 둘러보기](./assets/collabospace-openspace.gif)](https://collabospace.com/openspace/)
@@ -28,7 +30,7 @@
 - [**ShotToAI**](https://github.com/swinggto-droid/ShotToAI) — 모니터를 골라 AI 코딩 도구에 바로 붙여넣는 윈도우 유틸리티 · MIT
 - [**interior-trend**](https://github.com/swinggto-droid/interior-trend) — 유튜브·인스타그램·틱톡·X·스레드에서 인테리어 키워드를 모으는 수집기
 
-**쓴 글**
+**기술 기록**
 
 - [Supabase 인증에서 조용히 실패하는 세 가지](https://github.com/swinggto-droid/CollaboSpace/blob/main/docs/notes/supabase-auth-pitfalls.md)
 
