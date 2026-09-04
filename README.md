@@ -24,25 +24,12 @@
 
 [![콜라보스페이스 3D 캔버스에서 실제 가구를 배치하고 제품 정보를 확인하는 화면](./assets/collabospace-canvas.gif)](https://collabospace.com)
 
-**공개해 둔 것**
+**별도로 공개한 도구**
 
-- [**CollaboSpace**](https://github.com/swinggto-droid/CollaboSpace) — 제품 소개, 공개 기술 문서와 개발 기록
 - [**ShotToAI**](https://github.com/swinggto-droid/ShotToAI) — 모니터를 골라 AI 코딩 도구에 바로 붙여넣는 윈도우 유틸리티 · MIT
 - [**interior-trend**](https://github.com/swinggto-droid/interior-trend) — 유튜브·인스타그램·틱톡·X·스레드에서 인테리어 키워드를 모으는 수집기
-
-**기술 기록**
-
-- [Supabase 인증에서 조용히 실패하는 세 가지](https://github.com/swinggto-droid/CollaboSpace/blob/main/docs/notes/supabase-auth-pitfalls.md)
-
-**주로 쓰는 것**
-
-`Next.js` `React` `TypeScript` `Supabase` `Flutter` `three.js`
 
 **함께 이야기하고 싶다면**
 
 공간과 스타트업에 대해 관심이 많아요. 이야기는 언제든 환영해요.  
 [Threads에서 DM 보내기 →](https://www.threads.com/@swen.hong) · `swhong@collabospace.com`
-
----
-
-<sub>잔디의 대부분은 비공개 저장소예요 — 콜라보스페이스 제품 코드요.</sub>
