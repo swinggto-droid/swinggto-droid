@@ -27,7 +27,6 @@
 **별도로 공개한 도구**
 
 - [**ShotToAI**](https://github.com/swinggto-droid/ShotToAI) — 모니터를 골라 AI 코딩 도구에 바로 붙여넣는 윈도우 유틸리티 · MIT
-- [**interior-trend**](https://github.com/swinggto-droid/interior-trend) — 유튜브·인스타그램·틱톡·X·스레드에서 인테리어 키워드를 모으는 수집기
 
 **함께 이야기하고 싶다면**
 
